@@ -1,0 +1,12 @@
+.negative {
+  background-color: black;
+  color: white;
+  font-weight: bold;
+}
+.bright {
+  background-color: yellow;
+}
+.negative, .bright {
+  font-size: 28px;
+  font-family: Helvetica, "Times New Roman", sans-serif;
+}
